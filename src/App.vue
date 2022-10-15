@@ -2,6 +2,8 @@
   <div id="app">
     <img src="./assets/logo.png">
     <HelloWorld/>
+
+    <bin-button>zhnsgna</bin-button>
   </div>
 </template>
 

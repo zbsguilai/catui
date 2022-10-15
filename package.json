@@ -1,14 +1,14 @@
 {
   "name": "catelement",
-  "version": "0.1.0",
-  "private": false,
+  "version": "0.1.2",
+  "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build --target lib ./src/package/index.js --name cat-ui --dest cat-ui",
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
-    "catelement": "^0.1.0",
+    "catelement": "^0.1.1",
     "core-js": "^3.6.5",
     "vue": "^2.6.11"
   },

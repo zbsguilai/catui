@@ -110,7 +110,7 @@ if (typeof window !== 'undefined') {
 // Indicate to webpack that this file can be concatenated
 /* harmony default export */ var setPublicPath = (null);
 
-// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js?{"cacheDirectory":"node_modules/.cache/vue-loader","cacheIdentifier":"6e8485cb-vue-loader-template"}!./node_modules/cache-loader/dist/cjs.js??ref--13-0!./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--6!./node_modules/cache-loader/dist/cjs.js??ref--1-0!./node_modules/vue-loader/lib??vue-loader-options!./src/package/bin-button/index.vue?vue&type=template&id=01805dfd&
+// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js?{"cacheDirectory":"node_modules/.cache/vue-loader","cacheIdentifier":"418ba7f4-vue-loader-template"}!./node_modules/cache-loader/dist/cjs.js??ref--13-0!./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib!./node_modules/vue-loader/lib/loaders/templateLoader.js??ref--6!./node_modules/cache-loader/dist/cjs.js??ref--1-0!./node_modules/vue-loader/lib??vue-loader-options!./src/package/bin-button/index.vue?vue&type=template&id=01805dfd&
 var render = function render() {
   var _vm = this,
     _c = _vm._self._c;
@@ -261,7 +261,7 @@ var component = normalizeComponent(
 /* harmony default export */ var bin_button = (component.exports);
 // CONCATENATED MODULE: ./src/package/index.js
  // 引入封装好的组件
-const coms = [PigButton]; // 将来如果有其它组件,都可以写到这个数组里
+const coms = [bin_button]; // 将来如果有其它组件,都可以写到这个数组里
 
 // 批量组件注册
 const install = function (Vue) {
@@ -280,4 +280,4 @@ const install = function (Vue) {
 /***/ })
 
 /******/ });
-//# sourceMappingURL=bin-ui.common.js.map
+//# sourceMappingURL=cat-ui.common.js.map

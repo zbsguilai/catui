@@ -1,15 +1,11 @@
 <template>
   <div id="app">
-    <img src="./assets/logo.png">
-    <HelloWorld/>
-
-    <bin-button>zhnsgna</bin-button>
   </div>
 </template>
 
 <script>
+// import { BinButton } from "catelement";
 import HelloWorld from './components/HelloWorld'
-
 export default {
   name: 'App',
   components: {

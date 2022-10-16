@@ -2415,6 +2415,15 @@ catelement@^0.1.1:
     core-js "^3.6.5"
     vue "^2.6.11"
 
+catelement@^0.1.2:
+  version "0.1.2"
+  resolved "https://registry.yarnpkg.com/catelement/-/catelement-0.1.2.tgz#e20b6b1e8e7a1476b62d52bb7d7793762c85468f"
+  integrity sha512-da4KhQX8o7eBALAwGXmYoIZwVtmzZ0uDbppMQ0iD+G+eLshvIV0thRLcobcwhOS3n2dj/LGvI49iFLA5v+cwZg==
+  dependencies:
+    catelement "^0.1.1"
+    core-js "^3.6.5"
+    vue "^2.6.11"
+
 chalk@^2.0.0, chalk@^2.0.1, chalk@^2.1.0, chalk@^2.4.1, chalk@^2.4.2:
   version "2.4.2"
   resolved "https://registry.yarnpkg.com/chalk/-/chalk-2.4.2.tgz#cd42541677a54333cf541a49108c1432b44c9424"

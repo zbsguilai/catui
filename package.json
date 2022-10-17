@@ -1,6 +1,6 @@
 {
   "name": "catelement",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "main": "cat-ui/cat-ui.common.js",
   "scripts": {
     "serve": "vue-cli-service serve",

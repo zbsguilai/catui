@@ -1,16 +1,13 @@
 <template>
   <div id="app">
+    <bin-button disabled>按钮</bin-button>
+    <bin-button>按钮</bin-button>
   </div>
 </template>
 
 <script>
-// import { BinButton } from "catelement";
-import HelloWorld from './components/HelloWorld'
 export default {
   name: 'App',
-  components: {
-    HelloWorld
-  }
 }
 </script>
 

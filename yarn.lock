@@ -2398,32 +2398,6 @@ caseless@~0.12.0:
   resolved "https://registry.yarnpkg.com/caseless/-/caseless-0.12.0.tgz#1b681c21ff84033c826543090689420d187151dc"
   integrity sha512-4tYFyifaFfGacoiObjJegolkwSU4xQNGbVgUiNYVUxbQ2x2lUsFvY4hVgVzGiIe6WLOPqycWXA40l+PWsxthUw==
 
-catelement@^0.1.0:
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/catelement/-/catelement-0.1.0.tgz#d087f2cc94c73d1b32146f32f56e3f4885aab953"
-  integrity sha512-fTme9MqaBROZLBCmv7nivwxHyYTruwYSfr2X2yqx4QUYJBAIyiNQEIKHO9gO7zWp1PHh08pnuayh30QD4kIK5g==
-  dependencies:
-    core-js "^3.6.5"
-    vue "^2.6.11"
-
-catelement@^0.1.1:
-  version "0.1.1"
-  resolved "https://registry.yarnpkg.com/catelement/-/catelement-0.1.1.tgz#bc04cf3d0b56f37857e6bc0ec2676db190f1ba64"
-  integrity sha512-qNIvTHXqwFziG1nEzHtsE4ypkDy/qBgfyg4kmIBEbqS867tiQUPSUmuZyJC+b3rUbM+OUo3QZghjjvmne5D2cA==
-  dependencies:
-    catelement "^0.1.0"
-    core-js "^3.6.5"
-    vue "^2.6.11"
-
-catelement@^0.1.2:
-  version "0.1.2"
-  resolved "https://registry.yarnpkg.com/catelement/-/catelement-0.1.2.tgz#e20b6b1e8e7a1476b62d52bb7d7793762c85468f"
-  integrity sha512-da4KhQX8o7eBALAwGXmYoIZwVtmzZ0uDbppMQ0iD+G+eLshvIV0thRLcobcwhOS3n2dj/LGvI49iFLA5v+cwZg==
-  dependencies:
-    catelement "^0.1.1"
-    core-js "^3.6.5"
-    vue "^2.6.11"
-
 chalk@^2.0.0, chalk@^2.0.1, chalk@^2.1.0, chalk@^2.4.1, chalk@^2.4.2:
   version "2.4.2"
   resolved "https://registry.yarnpkg.com/chalk/-/chalk-2.4.2.tgz#cd42541677a54333cf541a49108c1432b44c9424"

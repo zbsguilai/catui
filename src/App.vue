@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <bin-button disabled>按钮</bin-button>
+    <!-- <bin-button disabled>按钮</bin-button> -->
     <!-- <bin-button>按钮</bin-button> -->
   </div>
 </template>
